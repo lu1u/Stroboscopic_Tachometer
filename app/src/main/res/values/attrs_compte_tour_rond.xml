@@ -1,0 +1,14 @@
+<resources>
+    <declare-styleable name="CompteTourRond">
+        <attr name="CTR_couleurFond" format="color"/>
+        <attr name="CTR_largeurFond" format="float"/>
+        <attr name="CTR_couleurValeur" format="color"/>
+        <attr name="CTR_largeurAiguilleValeur" format="float"/>
+        <attr name="CTR_couleurMoyenne" format="color"/>
+        <attr name="CTR_largeurAiguilleMoyenne" format="float"/>
+        <attr name="CTR_tailleTexteAiguille" format="integer"/>
+        <attr name="CTR_deltaTextAiguille" format="float"/>
+        <attr name="CTR_angle" format="float"/>
+        <attr name="CTR_angleDepart" format="float"/>
+    </declare-styleable>
+</resources>

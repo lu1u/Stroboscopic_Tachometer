@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compte Tours</string>
+
+    <string name="exposition">Exposition -</string>
+    <string name="exposition_plus">Exposition +</string>
+</resources>

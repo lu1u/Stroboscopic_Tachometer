@@ -1,0 +1,14 @@
+<resources>
+    <declare-styleable name="AffichageTextView">
+        <attr name="AT_couleurTitre" format="color"/>
+        <attr name="AT_couleurValeur" format="color"/>
+        <attr name="AT_couleurMoyenne" format="color"/>
+        <attr name="AT_couleurMin" format="color"/>
+        <attr name="AT_couleurMax" format="color"/>
+        <attr name="AT_TailleTitre" format="float"/>
+        <attr name="AT_TailleValeur" format="float"/>
+        <attr name="AT_TailleMoyenne" format="float"/>
+        <attr name="AT_TailleMin" format="float"/>
+        <attr name="AT_TailleMax" format="float"/>
+    </declare-styleable>
+</resources>

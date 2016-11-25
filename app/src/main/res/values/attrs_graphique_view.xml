@@ -1,0 +1,14 @@
+<resources>
+    <declare-styleable name="GraphiqueView">
+        <attr name="GV_couleurMoyenne" format="color"/>
+        <attr name="GV_couleurMin" format="color"/>
+        <attr name="GV_couleurMax" format="color"/>
+        <attr name="GV_largeurTrait" format="float"/>
+        <attr name="GV_couleurHaut" format="color"/>
+        <attr name="GV_couleurMoyen" format="color"/>
+        <attr name="GV_couleurBas" format="color"/>
+        <attr name="GV_tailleTexte" format="float"/>
+        <attr name="GV_couleurAxes" format="color"/>
+
+    </declare-styleable>
+</resources>
